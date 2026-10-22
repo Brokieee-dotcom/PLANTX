@@ -1,0 +1,3 @@
+[functions.analyze-plant]
+verify_jwt = true
+entrypoint = "./functions/analyze-plant/index.ts"
